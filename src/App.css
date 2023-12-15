@@ -2,6 +2,33 @@
   text-align: center;
 }
 
+.background {
+  background-color: wheat;
+  height: 35em;
+  width: 50em;
+  margin-left: 20em;
+}
+
+.convert_amount_input {
+  height: 2em;
+}
+
+.to_from_selects {
+  width: 15em;
+  margin-right: 2em;
+  margin-left: 1em;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  height: 2em;
+}
+
+.convert_button {
+  color: white;
+  background-color: blue;
+  width: 20em;
+  height: 4em;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
